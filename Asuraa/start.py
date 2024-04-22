@@ -18,15 +18,15 @@ async def start(bot: Client, msg: Message):
 
 ๏ ᴛʜɪs ɪs ᴍᴏsᴛ ᴘᴏᴡᴇʀғᴜʟʟ ᴀɴᴅ ᴛʀᴜsᴛᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ.
 
-๏ 💌 ᴍᴀᴅᴇ ʙʏ ➠ [ʀᴀᴠᴀɴᴀᴀ](tg://user?id={OWNER_ID}) !""",
+๏ 💌 ᴍᴀᴅᴇ ʙʏ ➠ [𝐑𝐎𝐂𝐊𝐘](tg://user?id={OWNER_ID}) !""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(text="💌 ɢᴇɴᴇʀᴀᴛᴇ sᴛʀɪɴɢ 💌", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Ravan_Lankaa"),
-                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/God_Ravana")
+                    InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/Rocky_Army01"),
+                    InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇ", url="https://t.me/Rocky_Army")
                 ]
             ]
         ),
